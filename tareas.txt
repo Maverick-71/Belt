@@ -1,0 +1,27 @@
+* Inicio de Sesion 
+* usuarios[{Administrador {
+    Alta
+    Eliminar
+    cambio de perfil
+}},{Usuario {
+    cambio de password 
+}}]
+
+* Productos[{Administrador {
+    Alta
+    edicion
+    Eliminar
+    Consulta
+}}
+{Empleado {
+    Consulta
+}}]
+
+* Creacion de Cotizaciones (
+    coleccion de Cotizaciones{
+        campos del usuario,
+        campos del producto 
+    }
+
+)
+
